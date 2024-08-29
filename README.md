@@ -18,7 +18,9 @@ I am a Junior QA Engineer specializing in web application testing. I have hands-
 
 ### Social
 <div id='social'>
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/nadejda-socolova-920831322]/)
+<a href="[https://example.com](https://www.linkedin.com/in/nadejda-socolova-920831322/)">
+    <img src="https://camo.githubusercontent.com/80f3f5e41f0473da8b64ee12af474e897689cfd91f30e311d7ef9c0666e9af69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465">
+</a>
 </div>
 <!--
 **tylenea/tylenea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
